@@ -2,13 +2,14 @@
   "name": "food-analyzer",
   "version": "1.0.0",
   "description": "ChatGPTに画像のカロリーを想像してもらうやつ",
-  "main": "index.js",
+  "main": "main.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.mjs"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.15.3"
+    "discord.js": "^14.15.3",
+    "openai": "^4.52.0"
   }
 }
