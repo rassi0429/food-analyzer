@@ -1,0 +1,2 @@
+# food analyzer
+ChatGPTに画像のカロリーを想像してもらうやつ
